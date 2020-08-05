@@ -188,7 +188,8 @@ font-family: 'Indie Flower', cursive;
 
 #card.open-fully .shadow {
   background-color: rgba(0, 0, 0, 0);
-  padding:20 px;
+  width:100 px;
+  height:100 px;
 }
 
 footer {
