@@ -89,6 +89,9 @@ p.signed {
 font-family: 'Indie Flower', cursive;
   font-size: 1.5em;
 }
+a {
+color:black;
+}
 
 #card-front {
   background-color: #ee9ca7;
