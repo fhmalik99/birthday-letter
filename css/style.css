@@ -25,7 +25,7 @@ body {
 }
 
 #card-front, #card-inside {
-  width: 50%;
+  width: 70%;
   -webkit-box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.25), 0 0 1px rgba(0, 0, 0, 0.5);
           box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.25), 0 0 1px rgba(0, 0, 0, 0.5);
   position: absolute;
@@ -188,8 +188,6 @@ font-family: 'Indie Flower', cursive;
 
 #card.open-fully .shadow {
   background-color: rgba(0, 0, 0, 0);
-  width:100 px;
-  height:100 px;
 }
 
 footer {
